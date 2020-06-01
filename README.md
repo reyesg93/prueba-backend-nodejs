@@ -28,3 +28,8 @@ database: {
     }
 ```
 
+_Usuario Administrador para el login_
+
+```
+Correo: admin@admin.com  Contraseña: 123456
+```
